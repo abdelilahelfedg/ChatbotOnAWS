@@ -1,0 +1,73 @@
+{
+  "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#applications/$entity",
+  "addIns": [],
+  "api": {
+    "acceptMappedClaims": null,
+    "knownClientApplications": [],
+    "oauth2PermissionScopes": [],
+    "preAuthorizedApplications": [],
+    "requestedAccessTokenVersion": null
+  },
+  "appId": "663a3fca-ded8-4192-a3a0-cfddbe153e84",
+  "appRoles": [],
+  "applicationTemplateId": null,
+  "certification": null,
+  "createdDateTime": "2024-12-05T13:55:58.8231444Z",
+  "defaultRedirectUri": null,
+  "deletedDateTime": null,
+  "description": null,
+  "disabledByMicrosoftStatus": null,
+  "displayName": "Bot-App",
+  "groupMembershipClaims": null,
+  "id": "c1a502a0-9386-434e-90d1-67dde346c242",
+  "identifierUris": [],
+  "info": {
+    "logoUrl": null,
+    "marketingUrl": null,
+    "privacyStatementUrl": null,
+    "supportUrl": null,
+    "termsOfServiceUrl": null
+  },
+  "isDeviceOnlyAuthSupported": null,
+  "isFallbackPublicClient": null,
+  "keyCredentials": [],
+  "nativeAuthenticationApisEnabled": null,
+  "notes": null,
+  "optionalClaims": null,
+  "parentalControlSettings": {
+    "countriesBlockedForMinors": [],
+    "legalAgeGroupRule": "Allow"
+  },
+  "passwordCredentials": [],
+  "publicClient": {
+    "redirectUris": []
+  },
+  "publisherDomain": "uae.ac.ma",
+  "requestSignatureVerification": null,
+  "requiredResourceAccess": [],
+  "samlMetadataUrl": null,
+  "serviceManagementReference": null,
+  "servicePrincipalLockConfiguration": null,
+  "signInAudience": "AzureADMultipleOrgs",
+  "spa": {
+    "redirectUris": []
+  },
+  "tags": [],
+  "tokenEncryptionKeyId": null,
+  "uniqueName": null,
+  "verifiedPublisher": {
+    "addedDateTime": null,
+    "displayName": null,
+    "verifiedPublisherId": null
+  },
+  "web": {
+    "homePageUrl": null,
+    "implicitGrantSettings": {
+      "enableAccessTokenIssuance": false,
+      "enableIdTokenIssuance": false
+    },
+    "logoutUrl": null,
+    "redirectUriSettings": [],
+    "redirectUris": []
+  }
+}

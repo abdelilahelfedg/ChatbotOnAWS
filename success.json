@@ -1,0 +1,16 @@
+{
+    "id": "/subscriptions/01613ce3-f3f9-412c-88fc-712873b4cfc6/resourceGroups/Tdia2ChatBot/providers/Microsoft.Web/sites/Tdia2/deploymentStatus/63d0385d-0489-4b39-aa2e-8afcafa34c9a",
+    "location": "Spain Central",
+    "name": "63d0385d-0489-4b39-aa2e-8afcafa34c9a",
+    "properties": {
+      "deploymentId": "63d0385d-0489-4b39-aa2e-8afcafa34c9a",
+      "errors": null,
+      "failedInstancesLogs": null,
+      "numberOfInstancesFailed": 0,
+      "numberOfInstancesInProgress": 0,
+      "numberOfInstancesSuccessful": 1,
+      "status": "RuntimeSuccessful"
+    },
+    "resourceGroup": "Tdia2ChatBot",
+    "type": "Microsoft.Web/sites/deploymentStatus"
+}
