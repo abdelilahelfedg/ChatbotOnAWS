@@ -26,4 +26,4 @@ jobs:
       uses: azure/webapps-deploy@v2
       with: 
         app-name: Tdia2-bot
-        package: TDIA2_bot
+        package: ./TDIA2_bot
