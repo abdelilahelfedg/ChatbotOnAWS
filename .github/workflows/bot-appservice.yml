@@ -22,12 +22,10 @@ jobs:
         tenant-id: ${{ secrets.AZURE_TENANT_ID }}
         subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
 
-    - name: Debug files
-      run: ls -R .
     
     - name: 'Deploy to Azure WebApp'
       id: deploy-to-webapp
       uses: azure/webapps-deploy@v2
       with: 
         app-name: Tdia2-bot
-        package: TDIA2_bot/
+        package: TDIA2_bot
