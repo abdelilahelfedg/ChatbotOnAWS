@@ -12,7 +12,7 @@ jobs:
   build_and_deploy: 
     runs-on: ubuntu-latest
     environment:
-      name: BotEnv
+      name: Production
       url: ${{steps.deploy-to-webapp.outputs.webapp-url}}
     steps:
     - name: Azure CLI Login
