@@ -10,6 +10,6 @@ class DefaultConfig:
     load_dotenv()
 
     PORT = 3978
-    APP_ID = os.environ.get("MicrosoftAppId", "7d553a67-b975-47dd-8172-3cd2f6d9c8c1")
+    APP_ID = os.environ.get("MicrosoftAppId", "0488e8f7-2831-4bdc-8b40-8de92217dc6b")
     APP_PASSWORD = os.environ.get("MicrosoftAppPassword")
     
