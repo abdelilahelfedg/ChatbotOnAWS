@@ -31,6 +31,6 @@ jobs:
       - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v3
         with:
-          app-name: "Tdia2-Bot"  # Nom de votre App Service Azure
+          app-name: "tdia2-bot"  # Nom de votre App Service Azure
           publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
           package: TDIA2_bot  # Spécifiez le dossier contenant votre code
