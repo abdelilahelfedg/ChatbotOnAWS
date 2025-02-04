@@ -1,0 +1,30 @@
+{
+    "tdia": "C'est une filière de l'ENSAH centrée sur la transformation digitale et l'intelligence artificielle. Pour plus de détails sur les semestres, consultez s1, s2, s3...",
+    "s1": "S1 :\nCe semestre couvre le langage C, Linux pour l'administration, MySQL, l'architecture d'entreprise, et la modélisation UML. Les étudiants apprennent également les bases de la programmation parallèle et des algorithmes fondamentaux.\n S2 :\n",
+    "s2": "Ce semestre inclut le développement Web (HTML, CSS, JavaScript), Python, Java, et l'industrie numérique. Les projets visent à développer des applications interactives en utilisant des frameworks modernes.",
+    "s3": "Ce semestre se concentre sur le cloud computing, l'apprentissage machine (introduction à TensorFlow et Scikit-learn), la cartographie numérique (SIG) et les applications d'entreprise comme ERP et CRM.",
+    "s4": "Les matières enseignées incluent la cybersécurité (cryptographie, réseaux sécurisés), le Big Data (Hadoop, Spark), l'apprentissage profond (réseaux neuronaux convolutifs et récurrents), la sécurité des données et les stratégies de transformation digitale.",
+    "s5": "Ce semestre introduit DevOps (CI/CD, Docker, Kubernetes), l'anglais des affaires, la veille stratégique et scientifique, ainsi que des modules avancés en architecture logicielle et conception orientée microservices.",
+    "s6": "Ce semestre est consacré au Projet de Fin d'Études (PFE), qui s'accompagne de stages pratiques dans des entreprises partenaires. Les étudiants sont également encadrés pour publier leurs travaux de recherche dans des conférences ou revues.",
+    "departement": "Département Math-Info",
+    "TrainingObjectives": "La filière TDIA forme des ingénieurs polyvalents maîtrisant les concepts stratégiques, économiques et technologiques. Ils sont experts en systèmes d'information décisionnels, en IA et en transformation digitale. Les diplômés sont capables de piloter des projets numériques complexes et d'accompagner les entreprises dans leur transition vers l'industrie 4.0.",
+    "Skills": "Recherche et acquisition de données (crawling/scraping),\n Stockage de données (SQL, NoSQL, Big Data),\n Visualisation des données (Tableaux de bord dynamiques, BI),\n Statistiques et intelligence artificielle,\n Modélisation UML 2.0 et conception logicielle,\n Développement d'applications d'entreprise (ERP, CRM),\n Programmation parallèle et distribuée,\n Veille technologique et innovation,\n Gestion des infrastructures cloud (AWS, Azure),\n Déploiement et gestion de pipelines DevOps,\n Conception de systèmes sécurisés et audit de sécurité,\n Application des méthodologies agiles (Scrum, Kanban)",
+    "Partnerships": "Université Toulouse III - Paul Sabatier, France. INSA Rennes, France. Delft University of Technology, Pays-Bas. Université de Lorraine, France. Université Mohammed VI Polytechnique, Maroc",
+    "debouches": "Les diplômés peuvent travailler comme architectes Big Data, data scientists, ingénieurs cloud, consultants en transformation digitale, ou spécialistes BI dans des SSII, startups, ou laboratoires R&D. Ils peuvent également occuper des postes de responsables IT ou chefs de projet numérique dans divers secteurs. En outre, ils peuvent devenir experts en cybersécurité ou entrepreneurs dans le domaine technologique.",
+    "stage": "Stage opérateur en 1ère année (Juillet): Découvrir les bases des environnements professionnels et acquérir une première expérience pratique.\n Stage ingénieur adjoint en 2ème année (Mi-juin à mi-août): Appliquer les concepts appris en cours dans un contexte professionnel et résoudre des problèmes réels liés à la transformation digitale.\n Projet de Fin d'Études (PFE) en 3ème année (Février à juillet): Réaliser un projet complet intégrant les compétences techniques, stratégiques et managériales acquises durant la formation.",
+    "nom de hackathon": "Hackathon IA et Transformation Digitale",
+    "description de hackathon": "Un concours annuel où les étudiants développent des solutions innovantes en IA pour répondre à des défis industriels.",
+    "nom de conference": "Conférence sur les technologies émergentes",
+    "description de conference": "Une conférence réunissant experts et étudiants pour discuter des tendances actuelles en IA, cloud, et Big Data.",
+    
+    "Parasco": "Club AI & Data Science\n Association des Ingénieurs de l'ENSAH (AIENSAH)",
+    "nom d'ecole": "École Nationale des Sciences Appliquées d'Al Hoceima",
+    "description d'ecole": "L'ENSAH est une grande école d'ingénieurs marocaine spécialisée dans la formation des ingénieurs hautement qualifiés dans différents domaines de l'ingénierie. L'école offre un cadre idéal pour l'apprentissage avec des infrastructures modernes et un personnel académique compétent.",
+    "mission d'ecole": "Former des ingénieurs polyvalents, compétitifs à l'échelle nationale et internationale, avec une forte capacité d'adaptation aux besoins du marché de travail.",
+    "departements d'ecole": "Génie Informatique Génie Civil Génie Électrique Génie Mécanique, Génie Industriel",
+    "cycle_preparatoire": "Les deux premières années sont dédiées à une formation générale en mathématiques, physique, chimie, informatique et langues.",
+    "cycle_ingenieur": "Les trois années suivantes se concentrent sur une spécialisation dans les filières d'ingénierie choisies, avec un accent particulier sur les projets pratiques et les stages industriels.",
+    "infrastructures": "Laboratoires modernes Bibliothèque équipée Salles de conférence Campus avec hébergement et restauration ",
+    "site web": "https://ensah.ma"
+}
+  
